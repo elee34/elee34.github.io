@@ -19,7 +19,8 @@ hr {
 .faded {
  /*color: rgba(255, 200, 120, 0.9); */
   /*font-size: 100px;*/
-  background: -webkit-linear-gradient(#0d0a9e,#000000);
+  /*background: -webkit-radial-gradient(#ee1a04,#2f10cb,#170742);*/
+  background: -webkit-radial-gradient(#4f28d0,#37323c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   /*text-shadow: 0 0 2px #FFf000;*/
@@ -35,12 +36,12 @@ header.startup {
 }
 
 header.startup hr {
-  margin-top: 150px;
+  margin-top: 100px;
   margin-bottom: 10px; 
 }
 
 header.startup h1 {
-  font-size: 3rem; 
+  font-size: 4.5rem; 
 }
 
 .btn {
@@ -51,7 +52,7 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 2rem 1.5rem; 
 }
 
 .btn-primary {
