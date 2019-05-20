@@ -1,3 +1,3 @@
 # elee34.github.io
 landing page for Smart Brain App
-(elee34.github.io)
+(https://elee34.github.io)
